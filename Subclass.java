@@ -1,5 +1,6 @@
 package task10;
 
+//Question No 6
 
 class BlackTea extends Tea { // BlackTea is a subclass of Tea class
     

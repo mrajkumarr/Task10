@@ -1,5 +1,6 @@
 package task10;
 
+//Question No 7
 
 public class ArrayClass {
 

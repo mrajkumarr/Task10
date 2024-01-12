@@ -1,5 +1,7 @@
 package task10;
 
+//Question No 3
+
 public class Circle {
     private double radius;
    static String name;

@@ -1,5 +1,7 @@
 package task10;
 
+//Question No 2
+
 public class Employee {
     private int ID;
     private String firstName;

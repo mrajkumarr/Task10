@@ -1,5 +1,7 @@
 package task10;
 
+//Question No 5
+
 public class Tea {
 
 	    private boolean prepare;
